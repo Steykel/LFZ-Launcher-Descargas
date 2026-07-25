@@ -37,6 +37,6 @@ o si lo prefieres, descarga directamente el archivo `.exe` desde nuestra pestañ
 ---
 
 <p align="center">
-  <b>Desarrollado con ❤️ por Steykel / Deyvid Borja</b><br>
+  <b>Desarrollado con ❤️ por Steykel</b><br>
   <i>No estamos afiliados con Mojang AB ni Microsoft.</i>
 </p>
