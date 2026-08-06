@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Steykel/LFZ-Launcher-Descargas/main/icon.ico" width="120" alt="LFZ Launcher Logo">
   <h1>🚀 LFZ Launcher</h1>
   <p><b>El lanzador de Minecraft definitivo con diseño premium, máximo rendimiento y soporte nativo para OptiFine y Modpacks.</b></p>
 
@@ -49,3 +48,4 @@ O si lo prefieres, descarga directamente el archivo `.exe` desde nuestra pestañ
   <b>Desarrollado con ❤️ por Steykel</b><br>
   <i>No estamos afiliados con Mojang AB ni Microsoft.</i>
 </div>
+
